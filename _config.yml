@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Song Portfolio"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Botian Song"
+description              : "Pursuing Master's degree in Electrical Engineering, George Mason University."
+url                      : "http://bsong.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "57711/minimal-mistakes"
+teaser                   : "/assets/images/cropped-cropped-1012441807.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
