@@ -16,13 +16,13 @@ main:
     
 docs:
   - title: Introduction
-    url: /collection-archive/
+    url: https://57711.github.io/minimal-mistakes/
 
   - title: Academic Products
-    url: /collection-archive/
+    url: /academic_products/
     children:
       - title: "Plan of Study"
-        url: /docs/plan-of-study/
+        url: /_pages/plan-of-study/
       - title: "Writing Samples"
         url: /docs/writing-samples/
 
