@@ -252,3 +252,9 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+
+#collections
+collections:
+  Academic Products:
+    output: true
+    permalink: /:collection/:path/
