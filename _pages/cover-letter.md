@@ -15,11 +15,8 @@ Email : bsong2@gmu.edu
 ----
 
 Human Resources
-
 Amazon Corporate LLC
-
 8115 Gatehouse Road
-
 Falls Church, VA 22042
 
 
