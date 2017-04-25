@@ -22,7 +22,7 @@ docs:
     url: /academic_products/
     children:
       - title: "Plan of Study"
-        url: /_pages/plan-of-study/
+        url: /_pages/plan-of-study.md/
       - title: "Writing Samples"
         url: /docs/writing-samples/
 
