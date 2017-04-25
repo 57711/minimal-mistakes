@@ -256,7 +256,7 @@ defaults:
   # _academic products
   - scope:
       path: ""
-      type: academic-products
+      type: academic_products
     values:
       layout: single
       author_profile: false
@@ -264,6 +264,6 @@ defaults:
 
 #collections
 collections:
-  academic-products:
+  academic_products:
     output: true
     permalink: /:collection/:path/
