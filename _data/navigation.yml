@@ -19,15 +19,15 @@ docs:
     url: https://57711.github.io/minimal-mistakes/
 
   - title: Academic Products
-    url: /_pages/academic-products.md/
+    url: /_pages/academic-products/
     children:
       - title: "Plan of Study"
-        url: /_pages/plan-of-study.md/
+        url: /_pages/plan-of-study/
       - title: "Writing Samples"
-        url: /_pages/writing-samples.md/
+        url: /_pages/writing-samples/
 
   - title: Progression Requirements
-    url: /_pages/progression-requirements.md/
+    url: /_pages/progression-requirements/
     children:
       - title: "Statement Purpose"
         url: /_pages/statement-purpose.md/
