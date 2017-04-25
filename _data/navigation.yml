@@ -18,47 +18,28 @@ docs:
   - title: Introduction
     url: /collection-archive/
 
-  - title: Introduction
+  - title: Academic Products
     url: /collection-archive/
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Plan of Study"
+        url: /docs/plan-of-study/
+      - title: "Writing Samples"
+        url: /docs/writing-samples/
 
-  - title: Customization
+  - title: Progression Requirements
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Statement Purpose"
+        url: /docs/statement-purpose/
+      - title: "reference"
+        url: /docs/reference/
 
-  - title: Content
+  - title: Professional Products
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Resume"
+        url: /docs/resume/
+      - title: "Cover Letter"
+        url: /docs/cover-letter/
 
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+  - title: Pathway Reflection
+    url: /docs/pathway-reflection/
+
