@@ -11,7 +11,7 @@ sidebar:
 4400 University Drive, Fairfax, VA 22030
 
 Email : bsong2@gmu.edu
-
+----
 Human Resources
 
 Amazon Corporate LLC
@@ -19,6 +19,7 @@ Amazon Corporate LLC
 8115 Gatehouse Road
 
 Falls Church, VA 22042
+
 
 Dear Human Resources:
 
