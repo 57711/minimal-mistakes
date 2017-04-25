@@ -30,18 +30,18 @@ docs:
     url: /_pages/progression-requirements/
     children:
       - title: "Statement Purpose"
-        url: /_pages/statement-purpose.md/
+        url: /_pages/statement-purpose/
       - title: "reference"
-        url: /_pages/reference.md/
+        url: /_pages/reference/
 
   - title: Professional Products
-    url: /_pages/professional-products.md/
+    url: /_pages/professional-products/
     children:
       - title: "Resume"
-        url: /_pages/resume.md/
+        url: /_pages/resume/
       - title: "Cover Letter"
-        url: /_pages/cover-letter.md/
+        url: /_pages/cover-letter/
 
   - title: Pathway Reflection
-    url: /_pages/pathway-reflection.md/
+    url: /_pages/pathway-reflection/
 
