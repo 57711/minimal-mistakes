@@ -1,18 +1,18 @@
 # main links
 main:
-  - title: "introduction"
+  - title: "Contact Me"
     url: https://57711.github.io/minimal-mistakes/
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
-  - title: "Academic Products"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Progression Requirements"
-    url: /p-r/
-  - title: "Professinal Products"
-    url: /collection-archive/
-  - title: "Pathway Reflection"
-    url: /sitemap/
+  #- title: "Academic Products"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Progression Requirements"
+  #  url: /p-r/
+  #- title: "Professinal Products"
+  #  url: /collection-archive/
+  #- title: "Pathway Reflection"
+  #  url: /sitemap/
     
 docs:
   - title: Introduction
