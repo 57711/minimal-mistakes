@@ -14,7 +14,7 @@ description              : "Pursuing Master's degree in Electrical Engineering, 
 url                      : "http://57711.github.io"
 baseurl                  : "/songportfolio"
 repository               : "57711/songportfolio"
-teaser                   : "/assets/images/cropped-cropped-1012441807.jpg"
+teaser                   : #"/assets/images/cropped-cropped-1012441807.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Botian Song"
+  avatar           : "/assets/images/20160904020213.jpg"
+  bio              : "Pursuing Master's degree in Electrical Engineering, George Mason University."
+  location         : #"Somewhere"
+  email            : "bsong2@gmu.edu"
+  uri              : "http://bsong.me"
   bitbucket        :
   codepen          :
   dribbble         :
