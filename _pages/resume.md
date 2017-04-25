@@ -1,11 +1,13 @@
 ---
-title: "Cover Letter"
+title: "Resume"
 layout: single
 author_profile: false
 sidebar:
   nav: "docs"
 ---
-<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<table class="MsoTableGridLight" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
   <td width="126" rowspan="3" valign="top" style="width:94.45pt;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><b style="mso-bidi-font-weight:normal">EDUCATION</b></p>
@@ -458,4 +460,4 @@ sidebar:
   normal"><o:p>&nbsp;</o:p></p>
   </td>
  </tr>
-</tbody>
+</tbody></table>
