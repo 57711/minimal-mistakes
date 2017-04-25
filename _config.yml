@@ -252,9 +252,18 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+  
+  # _academic products
+  - scope:
+      path: ""
+      type: academic-products
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 #collections
 collections:
-  Academic Products:
+  academic-products:
     output: true
     permalink: /:collection/:path/
