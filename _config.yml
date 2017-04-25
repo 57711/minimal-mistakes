@@ -11,9 +11,9 @@ title                    : "Song Portfolio"
 title_separator          : "-"
 name                     : "Botian Song"
 description              : "Pursuing Master's degree in Electrical Engineering, George Mason University."
-url                      : "http://bsong.me"
-baseurl                  : "/minimal-mistakes"
-repository               : "57711/minimal-mistakes"
+url                      : "http://57711.github.io"
+baseurl                  : "/songportfolio"
+repository               : "57711/songportfolio"
 teaser                   : "/assets/images/cropped-cropped-1012441807.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
