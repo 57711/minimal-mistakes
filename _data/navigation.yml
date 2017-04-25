@@ -19,27 +19,29 @@ docs:
     url: https://57711.github.io/minimal-mistakes/
 
   - title: Academic Products
-    url: /academic_products/
+    url: /_pages/academic-products.md/
     children:
       - title: "Plan of Study"
         url: /_pages/plan-of-study.md/
       - title: "Writing Samples"
-        url: /docs/writing-samples/
+        url: /_pages/writing-samples.md/
 
   - title: Progression Requirements
+    url: /_pages/progression-requirements.md/
     children:
       - title: "Statement Purpose"
-        url: /docs/statement-purpose/
+        url: /_pages/statement-purpose.md/
       - title: "reference"
-        url: /docs/reference/
+        url: /_pages/reference.md/
 
   - title: Professional Products
+    url: /_pages/professional-products.md/
     children:
       - title: "Resume"
-        url: /docs/resume/
+        url: /_pages/resume.md/
       - title: "Cover Letter"
-        url: /docs/cover-letter/
+        url: /_pages/cover-letter.md/
 
   - title: Pathway Reflection
-    url: /docs/pathway-reflection/
+    url: /_pages/pathway-reflection.md/
 
