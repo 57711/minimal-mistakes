@@ -2,7 +2,6 @@
 title: "Cover Letter"
 layout: single
 author_profile: false
-excerpt: "Suggestions and Front Matter defaults for working with pages."
 sidebar:
   nav: "docs"
 ---
