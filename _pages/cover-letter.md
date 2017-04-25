@@ -23,6 +23,7 @@ Amazon Corporate LLC
 Falls Church, VA 22042
 
 
+
 Dear Human Resources:
 
 I am applying for the position of the summer internship for summer 2017 in Electrical Engineering.
