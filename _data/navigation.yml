@@ -7,9 +7,9 @@ main:
         url: /docs/quick-start-guide/
   - title: "Academic Products"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Progression Requirements"
+    url: /p-r/
+  - title: "Professinal Products"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Pathway Reflection"
     url: /sitemap/
