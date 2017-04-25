@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Botian Song"
 description              : "Pursuing Master's degree in Electrical Engineering, George Mason University."
 url                      : "http://bsong.me"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/minimal-mistakes"
 repository               : "57711/minimal-mistakes"
 teaser                   : "/assets/images/cropped-cropped-1012441807.jpg"
 # breadcrumbs            : false # true, false (default)
