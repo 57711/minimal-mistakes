@@ -18,6 +18,7 @@ By analyzing four elements in this discipline, including professor, journal, jou
 
 **To see the full project, [Click & Go to the website](http://project2.bsong.me/)**
 
+---
 
 ### Multidisciplinary Colloquium Project 
 
@@ -25,6 +26,6 @@ By analyzing four elements in this discipline, including professor, journal, jou
 
 Augmented reality (AR) has been widely used in many fields, especially in cultural heritage [1], which provides people a motivation to learn history and helps to protect cultural heritage as shown in figure 1 [2]. AR facilitates the revolution of cultural heritage reconstruction and exhibition. Meanwhile, different surroundings and environment of cultural heritage promote the development of AR technique as well. Because that AR in different application and project faces different reconstruction solution, a widely-used reconstruction solution with optimal properties in the similar cultural heritage conditions. Although the growing AR utilization in cultural heritage, including Kalman filter and Particle filter, few research has generated a universal method to similar situations and no review categorized the AR method utilized in cultural heritage. Researchers always focused on one individual application and gave one specific solution. The previous AR method applied on cultural heritage reconstruction should be synthesized and classified into its fit application scenarios, which can offer a clear understanding of different AR method for researchers. Because of the tracking process or pose estimation is the central question in AR reconstruction, thus, in this poster, I will analyze and classify two main AR tracking methods, Kalman filter, and particle filter, from literature and find a recommended AR solution with desired properties in some similar applications. This review of literature can helps researchers to choose the suitable method in their projects and improve the algorithm in this field.
 
-**To see the full project, [Click & Go to the website](http://project2.bsong.me/)**
+**To see the full project, [Click & Go to the Poster](/assets/song_poster.pdf)**
 
 
