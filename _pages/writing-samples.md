@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-This page presents some of my writing artifacts, including the Academic Writing Analysis in project 2 of EAP 506, and other academic working. 
+This page presents some of my writing artifacts, including the Academic Writing Analysis in project 2 of EAP 506, and other academic working.
 
 ### Academic Writing Analysis in Electrical Engineering
 
@@ -21,6 +21,9 @@ By analyzing four elements in this discipline, including professor, journal, jou
 ---
 
 ### Multidisciplinary Colloquium Project 
+  
+  
+    
 
 **Introduction**
 
