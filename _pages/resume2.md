@@ -6,7 +6,7 @@ sidebar:
     nav: "docs"
 ---
 
-**Education**
+**Education**  
 George Mason University, Fairfax, VA                        Expected May 2018  
 Candidate of Master of Science in Electrical Engineering	  GPA 3.62  
 
