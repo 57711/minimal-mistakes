@@ -2,6 +2,7 @@
 layout: single
 title: Song Portfolio
 author_profile: true
+font-size: $type-size-1
 sidebar:
   nav: "docs"
 excerpt: "Welcome to my portfolio."
