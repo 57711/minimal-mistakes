@@ -31,8 +31,8 @@ docs:
     children:
       - title: "Statement Purpose"
         url: /_pages/statement-purpose/
-      - title: "reference"
-        url: /_pages/reference/
+      - title: "Academic Reference"
+        url: /_pages/academic-reference/
 
   - title: Professional Products
     #url: /_pages/professional-products/
