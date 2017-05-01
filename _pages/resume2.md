@@ -10,7 +10,7 @@ sidebar:
 George Mason University, Fairfax, VA                        
 Candidate of Master of Science in Electrical Engineering, Expected May 2018  
 
-Shenzhen University, Shenzhen, China	
+Shenzhen University, Shenzhen, China  
 Bachelor of Science in Electrical Engineering, Jun 2015  
 
 ---
@@ -28,7 +28,7 @@ Applications: MATLAB, Simulink
 
 **Related Experience**
 
-Polaris Network Corporation, Shenzhen, China	              Jun 2015  
+Polaris Network Corporation, Shenzhen, China, Jun 2015  
 *Entrepreneurial Firm*  
 * Created SDN switches and applications  
 * Build and maintain SND network platform for customers  
