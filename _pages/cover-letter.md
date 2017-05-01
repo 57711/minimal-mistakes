@@ -8,7 +8,7 @@ sidebar:
 **Botian Song**  
 4400 University Drive  
 Fairfax, VA 22030  
-February 20, 2017  
+bsong2@gmu.edu  
 ***
 Human Resources  
 Amazon Corporate LLC  
