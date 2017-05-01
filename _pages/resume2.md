@@ -1,10 +1,10 @@
 ---
-2	title: "Resume"
-3	layout: single
-4	author_profile: false
-5	sidebar:
-6	  nav: "docs"
-7	---
+title: "Resume"
+layout: single
+author_profile: false
+sidebar:
+    nav: "docs"
+---
 
 **Education**
 George Mason University, Fairfax, VA                        Expected May 2018  
