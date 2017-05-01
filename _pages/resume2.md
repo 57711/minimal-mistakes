@@ -7,11 +7,11 @@ sidebar:
 ---
 
 **Education**  
-George Mason University, Fairfax, VA                        Expected May 2018  
-Candidate of Master of Science in Electrical Engineering	  GPA 3.62  
+George Mason University, Fairfax, VA                        
+Candidate of Master of Science in Electrical Engineering, Expected May 2018  
 
-Shenzhen University, Shenzhen, China	                      Jun 2015  
-Bachelor of Science in Electrical Engineering	              GPA 3.31  
+Shenzhen University, Shenzhen, China	
+Bachelor of Science in Electrical Engineering, Jun 2015  
 
 ---
 
