@@ -38,7 +38,7 @@ docs:
     #url: /_pages/professional-products/
     children:
       - title: "Resume"
-        url: /_pages/resume/
+        url: /_pages/myresume/
       - title: "Cover Letter"
         url: /_pages/cover-letter/
 
