@@ -10,7 +10,6 @@ sidebar:
 Fairfax, VA 22030  
 bsong2@gmu.edu  
 
-***  
 ---  
 
 Human Resources  
