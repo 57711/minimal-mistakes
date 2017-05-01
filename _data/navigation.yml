@@ -19,7 +19,7 @@ docs:
     url: https://57711.github.io/minimal-mistakes/
 
   - title: Academic Products
-    url: /_pages/academic-products/
+    #url: /_pages/academic-products/
     children:
       - title: "Plan of Study"
         url: /_pages/plan-of-study/
@@ -27,7 +27,7 @@ docs:
         url: /_pages/writing-samples/
 
   - title: Progression Requirements
-    url: /_pages/progression-requirements/
+    #Curl: /_pages/progression-requirements/
     children:
       - title: "Statement Purpose"
         url: /_pages/statement-purpose/
@@ -35,7 +35,7 @@ docs:
         url: /_pages/reference/
 
   - title: Professional Products
-    url: /_pages/professional-products/
+    #url: /_pages/professional-products/
     children:
       - title: "Resume"
         url: /_pages/resume/
