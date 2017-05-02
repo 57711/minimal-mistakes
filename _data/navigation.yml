@@ -2,9 +2,7 @@
 main:
   - title: "Contact Me"
     mailto: bsong2@gmu.edu
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+    
   #- title: "Academic Products"
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
   #- title: "Progression Requirements"
@@ -16,7 +14,7 @@ main:
     
 docs:
   - title: Introduction
-    url: https://57711.github.io/minimal-mistakes/
+    url: /index/
 
   - title: Academic Products
     #url: /_pages/academic-products/
