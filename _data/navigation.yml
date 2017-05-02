@@ -2,6 +2,8 @@
 main:
   - title: "Contact Me"
     url: mailto:bsong2@gmu.edu
+  - title: "Email Me"
+    url: mailto:bsong2@gmu.edu
     
   #- title: "Academic Products"
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
