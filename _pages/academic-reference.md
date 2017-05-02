@@ -18,8 +18,8 @@ ECE 528
 ztian@gmu.edu  
 
 > **Prof. Kenneth Hintz**  
-ECE 521  
-khintz@gmu.edu  
+ECE 548
+khintz@gmu.edu  
 
 ### INTO pathway program
 
@@ -31,8 +31,8 @@ pmoore18@gmu.edu
 EAP 507  
 epaul4@gmu.edu, mricha18@gmu.edu  
 
-> **Mr. James Jones**  
-PROV 501  
+> **Mr. James Jones**  
+PROV 501  
 jjones12@gmu.edu  
 
 > **Dr. Aimee Weinstein**  
