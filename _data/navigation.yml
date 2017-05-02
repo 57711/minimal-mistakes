@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "Contact Me"
-    url: mailto:bsong2@gmu.edu
+  <a href="#" class="btn">Link Text</a>
+  #  url: mailto:bsong2@gmu.edu
   #- title: "Email Me"
   #  url: mailto:bsong2@gmu.edu
     
