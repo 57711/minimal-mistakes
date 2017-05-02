@@ -5,14 +5,14 @@ main:
   - title: "Email Me"
     url: mailto:bsong2@gmu.edu
     
-  #- title: "Academic Products"
-  #  url: https://mmistakes.github.io/minimal-mistakes/about/
-  #- title: "Progression Requirements"
-  #  url: /p-r/
-  #- title: "Professinal Products"
-  #  url: /collection-archive/
-  #- title: "Pathway Reflection"
-  #  url: /sitemap/
+  - title: "Academic Products"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Progression Requirements"
+    url: /p-r/
+  - title: "Professinal Products"
+    url: /collection-archive/
+  - title: "Pathway Reflection"
+    url: /sitemap/
     
 docs:
   - title: Introduction
