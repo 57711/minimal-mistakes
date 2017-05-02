@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Contact Me"
-    url: bsong2@gmu.edu
+    mailto: bsong2@gmu.edu
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
