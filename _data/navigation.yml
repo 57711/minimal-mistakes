@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Contact Me"
-    url: https://57711.github.io/minimal-mistakes/
+    url: bsong2@gmu.edu
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
