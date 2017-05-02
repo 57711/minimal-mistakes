@@ -14,8 +14,7 @@ main:
     
 docs:
   - title: Introduction
-    url: /index/
-
+    url: https://57711.github.io/songportfolio
   - title: Academic Products
     #url: /_pages/academic-products/
     children:
