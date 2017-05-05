@@ -6,3 +6,7 @@ sidebar:
   nav: "docs"
 ---
 ![Contact Me](/assets/images/contactme.gif)
+
+> **Email**: bsong2@gmu.edu  
+
+
