@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Contact Me"
-    link: https://github.com
+    url: /_pages/contact-me/
   #  url: mailto:bsong2@gmu.edu
   #- title: "Email Me"
   #  url: mailto:bsong2@gmu.edu
